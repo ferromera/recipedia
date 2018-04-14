@@ -1,0 +1,30 @@
+.app{
+    margin: 0!important;
+    background-image: url(/assets/img/background.jpg);
+    background-repeat: no-repeat;
+    background-position-x: -60px;
+    height: -webkit-fill-available;
+}
+
+.main{
+    width: 300px;
+    margin: 50px auto;
+}
+.header{
+    height: 60px;
+    background: #1d4461;
+
+}
+.header h1{
+    margin: auto;
+    font-family: 'Indie Flower', cursive;
+    color: #eee;
+    font-size: 2em;
+    height: inherit;
+    line-height: 65px;
+}
+.side-bar{
+    width: 200px;
+    height: 500px;
+    float: left;
+}
