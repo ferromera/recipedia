@@ -1,0 +1,13 @@
+.header{
+    height: 60px;
+    background: #1d4461;
+
+}
+.header h1{
+    margin: auto;
+    font-family: 'Indie Flower', cursive;
+    color: #eee;
+    font-size: 2em;
+    height: inherit;
+    line-height: 65px;
+}
